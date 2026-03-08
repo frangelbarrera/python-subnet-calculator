@@ -1,0 +1,5 @@
+# python-subnet-calculator – requirements.txt
+# CLI tool: no external packages required (uses Python stdlib only)
+# Web dashboard: requires Flask
+
+flask>=3.0.0
