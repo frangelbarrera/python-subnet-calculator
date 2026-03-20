@@ -26,7 +26,7 @@
 
 ---
 
-## ⚡ Quick Start
+## Quick Start
 
 ### Requirements
 
@@ -43,7 +43,7 @@ pip install -r requirements.txt
 
 ---
 
-## 🖥️ CLI Usage
+## CLI Usage
 
 **Single network (one-shot mode):**
 
@@ -65,7 +65,7 @@ netscope> exit
 
 ---
 
-## 🌐 Web Dashboard
+## Web Dashboard
 
 Start the Flask server:
 
@@ -94,7 +94,7 @@ curl -X POST http://localhost:5000/api/calculate \
 
 ---
 
-## 📊 Example Output
+## Example Output
 
 ```
 ══════════════════════════════════════════════════════
@@ -135,7 +135,7 @@ curl -X POST http://localhost:5000/api/calculate \
 
 ---
 
-## 🗂️ Project Structure
+## Project Structure
 
 ```
 python-subnet-calculator/
@@ -149,7 +149,7 @@ python-subnet-calculator/
 
 ---
 
-## 🔭 Roadmap
+## Roadmap
 
 - [x] CLI tool with ANSI color output
 - [x] Interactive REPL mode
